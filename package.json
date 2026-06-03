@@ -3,7 +3,7 @@
 	"type": "module",
 	
 	"name": "CHANDAN",
-	"version": "0.0.0",
+	"version": "1.21.8",
 	
 	"scripts": {
 		"start": "tsx ./src/index.ts",
